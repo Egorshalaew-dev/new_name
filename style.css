@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #2f4f4f;
+    color: white;
+    text-decoration: none;
+}
+.head_abo{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    color: blue;
+    background-color: lightblue;
+}
+
+footer p{
+    background-color: green;
+    color: black;
+}
+.nurse{
+    padding: 10px
+}
+nav a{ 
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: green;
+    padding: 1px;
+    margin: 15px;
+}
+nav{
+    padding: 5px;
+    margin: 10px;
+}
+.Wow{
+    border: 3px solid peru;
+    border-radius: 15px;
+    background-color: blue;
+}
+.DS{
+    border: 3px solid Black;
+    border-radius: 15px;
+    background-color: aqua;
+    color: lightcoral;
+}
+.div{
+    border: 3px solid Black;
+    border-radius: 15px;
+    background-color: aqua;
+    color: lightcoral;
+}
+.u{
+    text-decoration: none;
+}
+.covid{
+    border: 3px solid orchid;
+    border-radius: 15px;
+    background-color: lightgreen;
+    color: indigo;
+}
+}
